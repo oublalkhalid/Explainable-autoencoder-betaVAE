@@ -8,8 +8,8 @@ Recently, there has been an explosion of literature related to Non-Intrusive Loa
 
 ![latent space](doc/move_1.png)
 
-![latent space](doc/move_2.png)
+![latent space](doc/Move_2.png)
 
-![latent space](doc/move_3.png)
+![latent space](doc/Move_3.png)
 
-![latent space](doc/move_4.png)
+![latent space](doc/Move_4.png)
