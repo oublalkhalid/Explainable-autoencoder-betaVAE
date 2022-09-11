@@ -9,6 +9,9 @@ Recently, there has been an explosion of literature related to Non-Intrusive Loa
 ## Results
 ![latent space](doc/related_work_vs_betaVAE.png)
 
+## Results on UK-DALE Dataset
+![latent space](doc/related_work_vs_betaVAE_ukdale.png)
+
 
 ## Interpolation between $z_d$ and $z_{d} + sing(z_{d})$
 
