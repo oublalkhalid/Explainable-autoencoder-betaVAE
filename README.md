@@ -6,6 +6,10 @@ Recently, there has been an explosion of literature related to Non-Intrusive Loa
 
 ![latent space](doc/latent_space.gif)
 
+## Results
+![latent space](doc/related_work_vs_betaVAE.png)
+
+
 ## Interpolation between $z_d$ and $z_{d} + sing(z_{d})$
 
 ![latent space](doc/move_1.png)
